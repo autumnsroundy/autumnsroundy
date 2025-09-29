@@ -25,7 +25,7 @@ University Database Project — ERD creation, forward-engineering, and SQL queri
 
 🤝 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/autumnroundy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/autumn-roundy-b83084361/)
 
 
 Feel free to explore my repositories and don’t hesitate to reach out. Happy coding! 🚀
