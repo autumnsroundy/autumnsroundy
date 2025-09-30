@@ -1,7 +1,15 @@
-<img src="hayleyg.photos-218.jpg" alt="My Profile Photo" width="100" height="200"/>
+<table>
+  <tr>
+    <td>
+      <img src="hayleyg.photos-218.jpg" alt="My Profile Photo" width="200" height="400"/>
+      <strong>Autumn Roundy</strong>
+      <br><br><br><br><br><br><br><br><br>
+      🤝 Let’s Connect!
 
-
-Autumn Roundy
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/autumn-roundy-b83084361/)
+    </td>
+    <td>
+      <p>
 
 Hello, GitHub! 👋
 
@@ -26,9 +34,11 @@ QuickCRecipes — A recipe website loading categorized recipes from JSON with Ja
 National Park Visitor Center — A web project using JavaScript with Vite to create an interactive visitor page<br>
 University Database Project — ERD creation, forward-engineering, and SQL queries for managing student/course data<br>
 
-🤝 Let’s Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/autumn-roundy-b83084361/)
 
 
 Feel free to explore my repositories and don’t hesitate to reach out. Happy coding! 🚀
+      </p>
+    </td>
+  </tr>
+</table>
+
