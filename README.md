@@ -1,4 +1,5 @@
-![Photo of me with bouquette](hayleyg.photos-218.jpg)
+<img src="hayleyg.photos-218.jpg" alt="My Profile Photo" width="300"/>
+
 
 Autumn Roundy
 
