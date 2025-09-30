@@ -1,3 +1,5 @@
+![Photo of me with bouquette](hayleyg.photos-218.jpg)
+
 Autumn Roundy
 
 Hello, GitHub! 👋
