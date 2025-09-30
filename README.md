@@ -1,4 +1,4 @@
-<img src="hayleyg.photos-218.jpg" alt="My Profile Photo" width="300" height="200"/>
+<img src="hayleyg.photos-218.jpg" alt="My Profile Photo" width="150" height="200"/>
 
 
 Autumn Roundy
